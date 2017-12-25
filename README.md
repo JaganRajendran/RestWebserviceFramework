@@ -25,3 +25,4 @@ This framework was designed with an assumption that the backend database uses st
 In addition to this, this project also contains the GCM(Google Communication Messaging)
 and APNS(Android Push Notifications)
 
+Dependencies: javax,GoogleGCM,APNS
